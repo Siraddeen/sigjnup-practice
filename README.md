@@ -1,4 +1,4 @@
 # React + Vite
 
-@ First run    "npm install"   in rhe terminal    before even starting the code
+@ First run    "npm install"   in the terminal    before even starting the code
 
